@@ -1,2 +1,2 @@
-# Corona-Monitor
-Provide insights in COVID-19 by million of data poins given daily by people supporting the search to better insights.
+# Corona Monitor
+Provides public insights in how and where people experience the Corona epidemic.
