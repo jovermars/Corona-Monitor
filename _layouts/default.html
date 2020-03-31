@@ -22,19 +22,17 @@
 </head>
 
 <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">
             {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-        {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        {% endif %}
-
-        <a href="https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=nl" class="btn">Download for Android</a>
-        <a href="https://apps.apple.com/nl/app/youtube/id544007664" class="btn">Download for iOS</a>
+        <a href="https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=nl" class="btn">
+            <img src="/nl/android.png" alt="Android download" />
+        </a>
+        <a href="https://apps.apple.com/nl/app/youtube/id544007664" class="btn">
+            <img src="/nl/ios.png" alt="iOS download" />
+        </a>
 
     </header>
 
