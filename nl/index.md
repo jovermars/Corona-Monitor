@@ -1,6 +1,7 @@
 ## Corona Monitor
 
 Corona Monitor is gelanceerd! Deel dagelijks uw ervaringen en uw situatie en met jouw hulp krijgen we beter en actueel beeld van de verspreiding van het virus in ons land.
+
 <img class="project-name" src="/nl/phone.png" width="175px" />
 
 ## Understand our mission
