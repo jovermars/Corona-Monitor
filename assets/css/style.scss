@@ -1,11 +1,27 @@
 ---
 ---
 
-$header-heading-color: #50555C;
-$header-bg-color: #FFFFFF;
-$header-bg-color-secondary: #E3F2FD;
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
 
-$section-headings-color: #2196F3;
-$body-text-color: #757575;
+// Headers
+$header-heading-color: #50555C !default;
+$header-bg-color: #1e6bb8 !default;
+$header-bg-color-secondary: #E3F2FD !default;
+
+// Text
+$section-headings-color: #2196F3 !default;
+$body-text-color: #757575 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #757575 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #757575 !default;
+
+// Borders
+$border-color: #50555C !default;
+$table-border-color: #50555C !default;
+$hr-border-color: #50555C !default;
 
 @import "{{ site.theme }}";
