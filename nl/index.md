@@ -4,15 +4,15 @@ Corona Monitor is gelanceerd! Deel dagelijks uw ervaringen en uw situatie en met
 
 <img class="project-name" src="/nl/phone.png" width="175px" />
 
-## Understand our mission
+## Doe mee met onze missie
 
 Onze missie is dat iedereen op wereld zijn of haar ervaringen en de situatie dagelijks deelt gedurende de Corona epidemie.
 
-## Live our vision
+## Leef onze visie
 
 Onze visie is door het massaal delen van onze ervaringen en onze situatie tijdens deze epidemie, leveren we een grote hoeveelheid relevante en actuele gegevens voor data specialisten. Hiermee kunnen effectieve strategieën kunnen worden bedacht bij de aanpak van deze crisis.
 
-## Join oir strategy
+## Begrijp onze strategie
 
 Dat bereiken we met de Corona Monitor app die eenvoudig werkt en waar elke dag slechts twee vragen worden gesteld die binnen 10 seconden beantwoord kunnen worden. Dagelijks krijgt u een notificatie als herinnering.
 
