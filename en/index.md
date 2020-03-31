@@ -1,14 +1,10 @@
 ## Corona Monitor
 
-<table border="0">
-  <tr>
-    <td><img class="project-name" src="/nl/phone.png" width="250px" /></td>
-    <td>
+<img class="project-name" src="/en/phone.png" width="250px" />
 Corona Monitor has been launched! Share your experiences and your situation every day and with your help we will get a better and up-to-date picture of the spread of the virus in the your country.
-  </td>
-</table>
 
 ## Understand our mission
+
 Our mission is that we want to have all people from all over the world to share their experience and situation dealing in these difficult times.
 
 ## Live our vision
