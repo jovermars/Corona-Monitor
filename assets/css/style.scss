@@ -24,10 +24,14 @@ $border-color: #50555c !default;
 $table-border-color: #50555c !default;
 $hr-border-color: #50555c !default;
 
-@import url("https://fonts.googleapis.com/css?family=Quicksand:400,700");
+@import url("https://fonts.googleapis.com/css?family=Quicksand:200,400");
 
 @import "{{ site.theme }}";
 
 body {
   font-family: "Quicksand", sans-serif;
+}
+h1 {
+  font-weight:200;
+  font-style: italic;
 }
