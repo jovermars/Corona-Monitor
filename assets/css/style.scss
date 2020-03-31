@@ -1,2 +1,5 @@
-@import "{{ site.theme }}";
+$header-heading-color: #0000ff !default;
 $header-bg-color: #ff0000 !default;
+$header-bg-color-secondary: #00ff00 !default;
+
+@import "{{ site.theme }}";
