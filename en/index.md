@@ -2,7 +2,7 @@
 
 Corona Monitor has been launched! Share your experiences and your situation every day and with your help we will get a better and up-to-date picture of the spread of the virus in the your country.
 
-<img class="project-name" src="/en/phone.png" width="175px" />
+<img class="project-name" src="/en/phone.png" width="175px" /><img class="project-name" src="/en/phone2.png" width="175px" /><img class="project-name" src="/en/phone3.png" width="175px" />
 
 ## Join the mission
 
