@@ -1,3 +1,5 @@
-[Welkom. Klik hier voor de Nederlandse website](/nl)
+# Welkom *Nederlands*
+ Klik [hier](/nl) voor de Nederlandse website
 
-[Welcome, Click here for the English website](/en)
+# Welcome *English*
+Click [here](/en) for the English website
