@@ -1,7 +1,7 @@
 ## Corona Monitor
 
-<img class="project-name" src="/en/phone.png" width="250px" />
 Corona Monitor has been launched! Share your experiences and your situation every day and with your help we will get a better and up-to-date picture of the spread of the virus in the your country.
+<img class="project-name" src="/en/phone.png" width="175px" />
 
 ## Understand our mission
 
