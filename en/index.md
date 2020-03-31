@@ -20,4 +20,4 @@ In addition, the app can easily be shared with friends, family and acquaintances
 
 ## Privacy
 
-Please read our [privacy statement](/en/privacyverklaring)
+Please read our [privacy statement](/en/privacystatement)
